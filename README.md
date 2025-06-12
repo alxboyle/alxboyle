@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Chinese Vocabulary](https://img.shields.io/badge/词汇-3477-blue)
+
 <!--
 **alxboyle/alxboyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
