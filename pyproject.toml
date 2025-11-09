@@ -6,8 +6,9 @@ authors = ["Alex Boyle <alex.ray.boy@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3.11"
 anki = "^2.1"
+yt-dlp = "^2025.10.22"
 
 [tool.poetry.scripts]
 update-vocabulary = "update_vocabulary:main"
